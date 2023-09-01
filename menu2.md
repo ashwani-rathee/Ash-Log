@@ -14,6 +14,7 @@ tags = ["syntax", "code", "image"]
 
 ## More markdown support
 
+[Tests](/blog-posts/basic/)
 The Julia Markdown parser in Julia's stdlib is not exactly complete and Franklin strives to bring useful extensions that are either defined in standard specs such as Common Mark or that just seem like useful extensions.
 
 * indirect references for instance [like so]
